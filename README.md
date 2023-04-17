@@ -1,8 +1,7 @@
 # Hi there 👋, My name is MPoul
 
-<img width="100%" src="https://leviarista.github.io/github-profile-header-generator/" alt="my banner">
+<img width="100%" src="https://leviarista.github.io/github-profile-header-generator/![Header](./your-header-image-name.png)" alt="my banner">
 
-## 💫 Liitle Bit More About Me
 
 ## 💻 Skills
 <p>
