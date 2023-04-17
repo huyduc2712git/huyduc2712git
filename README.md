@@ -1,6 +1,6 @@
 # Hi there 👋, My name is MPoul
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](.github-header-image.png)" alt="my banner">
+[<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](.github-header-image.png)" alt="my banner">](https://leviarista.github.io/github-profile-header-generator/)
 
 ## 💫 Liitle Bit More About Me
 
