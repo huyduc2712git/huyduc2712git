@@ -27,11 +27,6 @@
 <p>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=MPoul">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPoul&layout=compact"><p>
