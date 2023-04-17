@@ -2,6 +2,7 @@
 
 <img width="100%" src="https://leviarista.github.io/github-profile-header-generator/![Header](./your-header-image-name.png)" alt="my banner">
 
+![github-header-image](https://user-images.githubusercontent.com/130945265/232369906-e5ab6df7-7149-49a4-87b7-86e976960068.png)
 
 ## 💻 Skills
 <p>
