@@ -27,3 +27,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPoul&layout=compact"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MPoul"><p>
+  
+  ![6m](https://user-images.githubusercontent.com/130945265/232370795-74502457-19d5-44e5-8ac4-2dee901d0e32.gif)
+
